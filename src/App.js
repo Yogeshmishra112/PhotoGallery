@@ -17,9 +17,14 @@ function App() {
           <Route path="/gallery" element={<PhotoGallery />} />
           <div>hello</div>
         </Routes>
+		
       </div>
     </Router>
   );
 }
 
 export default App;
+function newfeatureAdd() {
+     console.log("new feature");
+	 
+}
