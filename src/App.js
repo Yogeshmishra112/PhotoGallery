@@ -15,7 +15,10 @@ return (
 		<Routes>
 		<Route path="/" element={<Introduction />} />
 		<Route path="/gallery" element={<PhotoGallery />} />
-
+     <div>
+		hello
+		
+	 </div>
 		</Routes>
 	</div>
 	</Router>
